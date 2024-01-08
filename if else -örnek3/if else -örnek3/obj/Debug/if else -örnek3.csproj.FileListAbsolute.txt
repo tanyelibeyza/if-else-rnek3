@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\bin\Debug\if else -örnek3.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\bin\Debug\if else -örnek3.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\bin\Debug\if else -örnek3.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if_else__örnek3.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if_else__örnek3.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\if else -örnek3\if else -örnek3\obj\Debug\if else -örnek3.pdb
